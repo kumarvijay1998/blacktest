@@ -1,1 +1,1 @@
-print("ffdf"             )
+print("ffdf")
